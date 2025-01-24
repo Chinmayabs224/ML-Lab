@@ -1,0 +1,16 @@
+Outlook,Temperature,Humidity,Wind,Water,Forecast,Play
+Sunny,Warm,Normal,Strong,Warm,Same,Yes
+Sunny,Warm,High,Strong,Warm,Same,Yes
+Rainy,Cold,High,Strong,Warm,Change,No
+Sunny,Warm,High,Strong,Cool,Change,Yes
+Overcast,Mild,Normal,Weak,Warm,Same,Yes
+Rainy,Mild,High,Weak,Cool,Change,No
+Sunny,Cool,Normal,Weak,Warm,Change,Yes
+Rainy,Cool,Normal,Weak,Cool,Same,No
+Overcast,Warm,High,Strong,Warm,Same,Yes
+Sunny,Mild,High,Weak,Warm,Change,Yes
+Rainy,Mild,Normal,Strong,Cool,Change,No
+Overcast,Cool,Normal,Strong,Warm,Change,Yes
+Sunny,Cool,High,Weak,Cool,Same,No
+Rainy,Warm,High,Strong,Warm,Change,No
+Overcast,Mild,High,Weak,Cool,Same,Yes
